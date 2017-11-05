@@ -6,3 +6,8 @@ protect you from them actually locking you out.
 Features:
 -Looks very much like the original
 -Log the password under C:\temp\syskeylol.log
+
+
+How to use:
+Rename the original syskey.exe
+Rename syskey_fake.exe to syskey.exe and copy at original emplacement.
