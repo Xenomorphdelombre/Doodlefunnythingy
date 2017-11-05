@@ -1,4 +1,5 @@
 ;Fake Syskey by Xenomorphdelombre Rev 1.0
+;If you build the executable from Scite Autoit editor don't forget to change the location of the .ico and Image
 
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=lock.ico
